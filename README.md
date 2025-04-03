@@ -1,7 +1,5 @@
 # Java Swing Calculator 🧮
 
-![Calculator Screenshot](./calculator-screenshot.png) <!-- Add your screenshot file -->
-
 A feature-rich desktop calculator built with Java Swing, offering basic arithmetic operations and advanced functions with a retro-inspired interface.
 
 ## Features ✨
@@ -31,14 +29,3 @@ A feature-rich desktop calculator built with Java Swing, offering basic arithmet
 - **Language**: Java 11+
 - **GUI Framework**: Swing
 - **Dependencies**: Standard Java libraries only
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Java JDK 11 or later
-- Git (optional)
-
-### Installation
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/java-swing-calculator.git
