@@ -1,50 +1,44 @@
-Java Swing Calculator 🧮
-A retro-style desktop calculator built with Java Swing, featuring basic arithmetic operations, percentage calculations, sign toggling, and a clean GUI with color-coded buttons.
+# Java Swing Calculator 🧮
 
-Features ✨
-Basic Math: +, -, *, /, =
+![Calculator Screenshot](./calculator-screenshot.png) <!-- Add your screenshot file -->
 
-Special Functions:
+A feature-rich desktop calculator built with Java Swing, offering basic arithmetic operations and advanced functions with a retro-inspired interface.
 
-CE (Clear Entry) – Reset the calculator.
+## Features ✨
 
-Backspace – Remove the last digit.
+### Basic Operations
+- Addition (`+`), Subtraction (`-`)
+- Multiplication (`*`), Division (`/`)
+- Equals (`=`) with chained calculations
 
-+/- – Toggle positive/negative.
+### Advanced Functions
+- **CE**: Clear Entry (reset calculator)
+- **Backspace**: Delete last digit
+- **+/-**: Toggle positive/negative
+- **%**: Percentage conversion
 
-% – Convert to percentage.
+### UI Highlights
+- Retro black/green display
+- Color-coded buttons:
+  - 🔴 Red: Clear (CE)
+  - 🟡 Yellow: Backspace
+  - 🟠 Orange: Operations
+  - 🔵 Cyan: Special functions
+  - ⚪ Light Gray: Numbers
+- Interactive hover effects
 
-User-Friendly UI:
+## 🛠️ Tech Stack
+- **Language**: Java 11+
+- **GUI Framework**: Swing
+- **Dependencies**: Standard Java libraries only
 
-Retro black/green display 🖥️
+## 🚀 Getting Started
 
-Color-coded buttons (red, orange, cyan, light gray) 🎨
+### Prerequisites
+- Java JDK 11 or later
+- Git (optional)
 
-Hover effects for interactivity 🔍
-
-Error Handling – Prevents division by zero.
-
-Tech Stack ⚙️
-Language: Java
-
-Libraries: javax.swing, java.awt
-
-Thread-Safe: Uses SwingUtilities.invokeLater
-
-How to Run ▶️
-Clone the repo.
-
-Compile & execute:
-
-sh
-Copy
-javac SwingCalculator.java  
-java SwingCalculator  
-Future Improvements 🔧
-Add keyboard input support ⌨️
-
-Extend with scientific functions (√, x², sin/cos)
-
-Support calculation history 📜
-
-Perfect for learning Java Swing, event handling, and GUI development! Contributions welcome. 🚀
+### Installation
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/java-swing-calculator.git
