@@ -2,8 +2,9 @@ Java Swing Calculator 🧮
 A retro-style desktop calculator built with Java Swing, featuring basic arithmetic operations, percentage calculations, sign toggling, and a clean GUI with color-coded buttons.
 
 Features ✨
-✔ Basic Math: +, -, *, /, =
-✔ Special Functions:
+Basic Math: +, -, *, /, =
+
+Special Functions:
 
 CE (Clear Entry) – Reset the calculator.
 
@@ -12,14 +13,16 @@ Backspace – Remove the last digit.
 +/- – Toggle positive/negative.
 
 % – Convert to percentage.
-✔ User-Friendly UI
+
+User-Friendly UI:
 
 Retro black/green display 🖥️
 
 Color-coded buttons (red, orange, cyan, light gray) 🎨
 
 Hover effects for interactivity 🔍
-✔ Error Handling – Prevents division by zero.
+
+Error Handling – Prevents division by zero.
 
 Tech Stack ⚙️
 Language: Java
